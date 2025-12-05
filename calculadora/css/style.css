@@ -15,6 +15,7 @@ body {
     padding-top: 80px; /* Espacio para el navbar fijo */
 }
 
+
 /* === NAVBAR Y OFFCANVAS (CONSERVADOS) === */
 .navbar-custom {
     background-color: var(--color-primary);
